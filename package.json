@@ -10,7 +10,7 @@
   "dependencies": {
     "@zeit/next-sass": "^1.0.1",
     "bootstrap": "^4.4.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "next": "^9.2.2",
     "node-sass": "^4.13.1",
     "react": "^16.12.0",
